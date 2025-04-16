@@ -1,0 +1,10 @@
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\bin\Debug\Week04Najemun.exe.config
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\bin\Debug\Week04Najemun.exe
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\bin\Debug\Week04Najemun.pdb
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\obj\Debug\Week04Najemun.csproj.AssemblyReference.cache
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\obj\Debug\Week04Najemun.Form1.resources
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\obj\Debug\Week04Najemun.Properties.Resources.resources
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\obj\Debug\Week04Najemun.csproj.GenerateResource.cache
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\obj\Debug\Week04Najemun.csproj.CoreCompileInputs.cache
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\obj\Debug\Week04Najemun.exe
+C:\Users\car64\Downloads\202244104\202444025\Week07Homework\Week04Najemun\obj\Debug\Week04Najemun.pdb
